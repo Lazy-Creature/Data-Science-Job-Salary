@@ -1,6 +1,4 @@
 
-
-```markdown
 # Salary Prediction using Machine Learning
 
 This project aims to predict salaries based on various job-related features using machine learning models. The dataset includes key attributes such as job experience level, employment type, company size, and more. The objective is to build a regression model that predicts annual salaries in USD and evaluate its performance.
@@ -80,18 +78,13 @@ The Gradient Boosting and KNN models provide the best results in terms of predic
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/salary-prediction.git
-```
+   git clone https://github.com/yourusername/salary-prediction.git
 
 2. Install the required libraries:
 
-```bash
-pip install -r requirements.txt
-```
+   pip install -r requirements.txt
 
 3. Run the Jupyter notebook or Python script to explore and train the models.
 
 
-
-Feel free to modify this as per your preferences, and make sure to update the model details and performance metrics when you run the analysis.
+---
